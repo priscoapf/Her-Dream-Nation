@@ -1,0 +1,6 @@
+{
+  "name": "HerDream Nation Women Empowerment",
+  "description": "Multi-page NGO website for HerDream Nation Women Empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
